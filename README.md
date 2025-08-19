@@ -18,6 +18,8 @@ npm run storybook
 # Build for production
 npm run build
 ```
+## 📖 Storybook Preview
+You can view the live Storybook here: https://68a3997f09919dc38b9f20c3-fflnekmzjw.chromatic.com/
 
 ## 📋 Assignment Requirements
 
@@ -68,3 +70,4 @@ npm run test
 
 ## 📚 Documentation
 All components are documented in Storybook with interactive examples and usage guidelines.
+
